@@ -1,0 +1,6 @@
+# 로컬 NAS 접속 정보가 포함된 개인 메모는 저장소에 올리지 않는다.
+/codexCode.md
+
+# Python 실행·검증 중 생성되는 캐시 파일
+__pycache__/
+*.py[cod]
